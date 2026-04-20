@@ -3,11 +3,11 @@
 - 🌱 I’m a certified AI (LLM) solution developer, MERN Stack Software Engineer, Python, and planning to pursue CS50...
 - 📫 How to reach me https://www.linkedin.com/in/michaelmarquezusa?trk=contact-info...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Besides software coding in Visual Studio IDE,
-  ✨ Completed AI Solution Developer (between Feb 2026 to Apr 2026)- PerScholas
-  ✨ I am a Photographer,
-  ✨ A licensed Tax Professional helping clients file their Income Tax Return (ITR)
-  ✨ Fond of connecting dots at the intersection of business and technology.
+- ⚡ Fun fact: Besides software coding in Visual Studio IDE,<br>
+  ✨ Completed AI Solution Developer (between Feb 2026 to Apr 2026)- PerScholas<br>
+  ✨ I am a Photographer,<br>
+  ✨ A licensed Tax Professional helping clients file their Income Tax Return (ITR)<br>
+  ✨ Fond of connecting dots at the intersection of business and technology.<br>
        As a Software Engineer, I utilize available tools at my disposal, like
        AI coding assistant to help me build Agentic AI-based solutions in solving real-world problems.
 - Keeping tabs on Science and Technology trends, specifically Robotics and automation...

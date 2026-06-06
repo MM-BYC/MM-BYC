@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Michael, a Software Engineer first by trade.
-- 👀 Transitioning into applied AI and ML-systems work.
+- 👀 Transitioned into applied AI and ML-systems work.
 - 🌱 I’m a certified AI (LLM) solution developer, MERN Stack Software Engineer, Python, and planning to pursue CS50...
 - 📫 How to reach me https://www.linkedin.com/in/michaelmarquezusa?trk=contact-info...
 - 😄 Pronouns: he/him

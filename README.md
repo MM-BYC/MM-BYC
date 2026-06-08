@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Michael, a Software Engineer.
-- 👀 Expanded into applied AI and ML-systems workspace.
+- 👀 Expanded into the applied AI and ML-systems workspace.
 - 🌱 I’m a certified AI (LLM) solution developer, MERN Stack Software Engineer, Python.
 - 📫 How to reach me https://www.linkedin.com/in/michaelmarquezusa?trk=contact-info.
 - 😄 Pronouns: he/him
